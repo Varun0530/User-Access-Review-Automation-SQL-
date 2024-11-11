@@ -31,10 +31,12 @@ This project showcases the use of SQL for:
 ## Key Metrics
 1) Active Users by Role:
 
--) Grouped by department and role.
+-) Grouped by department and role. 
+
 2) Inactive Accounts:
 
 -) Users who haven’t logged in for over 90 days.
+
 3) Discrepancies in Role Assignments:
 
--)Roles assigned to users that don’t align with department or project policies.
+-) Roles assigned to users that don’t align with department or project policies.
